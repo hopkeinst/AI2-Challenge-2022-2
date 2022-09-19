@@ -34,7 +34,7 @@ Aquí el video, o lo pueden observar en [YouTube](https://www.youtube.com/watch?
   </video>
 </figure>
 
-[![Video presentación](https://www.youtube.com/watch?v=CG-QkKukAb0)](https://www.youtube.com/watch?v=CG-QkKukAb0)
+[![Video presentación](https://img.youtube.com/vi/CG-QkKukAb0/0.jpg)](https://www.youtube.com/watch?v=CG-QkKukAb0)
 
 <hr>
 
