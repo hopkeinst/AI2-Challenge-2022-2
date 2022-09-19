@@ -34,6 +34,8 @@ Aquí el video, o lo pueden observar en [YouTube](https://www.youtube.com/watch?
   </video>
 </figure>
 
+[![Video presentación](https://www.youtube.com/watch?v=CG-QkKukAb0)](https://www.youtube.com/watch?v=CG-QkKukAb0)
+
 <hr>
 
 #### Código
