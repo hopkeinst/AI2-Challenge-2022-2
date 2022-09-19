@@ -26,7 +26,7 @@ Frente al inconveniente del procesamiento de cómputo por el tamaño y peso de l
 #### Video resumen
 A continuación podrá reproducir un video resumen del proyecto, en donde se muestra la información clave así como los resultados y conclusiones, que también se pueden encontrar en las [diapositivas anexas en este repositorio](Reconocimiento de causas de accidentes cerebrovasculares usando imágenes de coágulos.pptx).
 
-Aquí el video:
+Aquí el video, o lo pueden observar en [YouTube](https://www.youtube.com/watch?v=CG-QkKukAb0):
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true">
